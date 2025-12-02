@@ -1,7 +1,7 @@
 
 import 'package:cartizy_app/feature/cart/view/cart_screen.dart';
 import 'package:cartizy_app/feature/favorite/view/favorite_screen.dart';
-import 'package:cartizy_app/feature/home/view/home_screen.dart';
+import 'package:cartizy_app/feature/home/presentation/view/home_screen.dart';
 import 'package:cartizy_app/feature/profile/view/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
